@@ -73,22 +73,22 @@ const Contact = () => {
     {
       icon: <FaEnvelope />,
       title: 'Email',
-      value: 'manu@manu',
-      link: 'mailto:manu@manu',
+      value: 'manutygii90@gmail.com',
+      link: 'mailto:manutygii90@gmail.com',
       color: 'hover:text-red-500'
     },
     {
       icon: <FaPhone />,
       title: 'Phone',
-      value: '+91 XXXXXXXXXX',
-      link: 'tel:+91XXXXXXXXXX',
+      value: '+91 7818008391',
+      link: 'tel:+917818008391',
       color: 'hover:text-green-500'
     },
     {
       icon: <FaWhatsapp />,
       title: 'WhatsApp',
-      value: '+91 XXXXXXXXXX',
-      link: 'https://wa.me/91XXXXXXXXXX',
+      value: '+91 7818008391',
+      link: 'https://wa.me/917818008391',
       color: 'hover:text-green-600'
     },
     {

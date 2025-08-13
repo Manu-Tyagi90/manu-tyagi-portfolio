@@ -29,13 +29,13 @@ const Footer = () => {
               <FaLinkedin size={24} />
             </a>
             <a
-              href="mailto:manu@manu"
+              href="mailto:manutygii90@gmail.com"
               className="text-gray-600 dark:text-gray-400 hover:text-primary dark:hover:text-primary transition-colors"
             >
               <FaEnvelope size={24} />
             </a>
             <a
-              href="tel:+91xxxxxxxxxx"
+              href="tel:+917818008391"
               className="text-gray-600 dark:text-gray-400 hover:text-primary dark:hover:text-primary transition-colors"
             >
               <FaPhone size={24} />

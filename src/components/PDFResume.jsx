@@ -93,8 +93,8 @@ const PDFResume = () => {
         <h1 style={styles.name}>Manu Tyagi</h1>
         <p style={styles.tagline}>Full-Stack Developer | React.js & Spring Boot Specialist</p>
         <div style={styles.contact}>
-          <span>📧 manu@manu</span>
-          <span>📱 +91 XXXXXXXXXX</span>
+          <span>📧 manutygii90@gmail.com</span>
+          <span>📱 +91 7818008391</span>
           <span>📍 Meerut, UP, India</span>
         </div>
         <div style={styles.contact}>
